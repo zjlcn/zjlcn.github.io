@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lorem ipsum"
-description              : "副教授，昌吉学院"
+description              : # ""
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "张静林"
   avatar           : "images/zhaopianzhiye.png"
-  bio              : # "Lorem ipsum College"
+  bio              : "昌吉学院"
   location         : # "Beijing, China"
   employer         :
   pubmed           : 
