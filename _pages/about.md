@@ -40,7 +40,7 @@ recognition]([[https://github.com](https://link.springer.com/article/10.1007/s13
 
 -  **张静林**, 李家印, 张龙, 杨莲红, 朱应涛*
   
-  [本征缺陷对β-Ga2O3光催化性质影响的第一性原理研究](https://www.cnki.com.cn/Article/CJFDTotal-YZYF202203004.htm)，原子与分子物理学报，39 (2022) 28-3 (北核)
+   [本征缺陷对β-Ga2O3光催化性质影响的第一性原理研究](https://www.cnki.com.cn/Article/CJFDTotal-YZYF202203004.htm)，原子与分子物理学报，39 (2022) 28-3 (北核)
   
 -  **张静林**, 高红, 马宝英
 
