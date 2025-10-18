@@ -17,42 +17,55 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+副教授，博士在读，自治区第八届教学能手，自治区首届基础教育教学指导专业委员会委员。先后主持或参与国家自然科学基金、自治区自然科学基金、自治区本科教育教学研究和改革项目等各级各类课题10余项，发表SCI、核心等教科研论文9篇。主讲课程《JAVA程序设计》获批自治区级线上线下混合式一流本科课程，获自治区高校青年教师教学竞赛三等奖等各类教学奖励6项，指导学生参加蓝桥杯、华为ICT大赛、互联网+等各类竞赛多次获得省级以上奖项。
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+#  代表作 
 
+-  **Jinglin Zhang**, Qiangchang Wang, Jing Li1, Zhaohui Li, Xinxin Zhang, Peng Zhao, Yilong Yin, Huimin Lu
+  
+   [CPL: consistent prompt learning for noisy label facial expression 
+recognition]([[https://github.com](https://link.springer.com/article/10.1007/s13042-025-02802-x)]), International Journal of Machine Learning and Cybernetics 2025, (SCI)
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-  **Jinglin Zhang**, Qiangchang Wang, Jing Li, Yilong Yin
 
-# 📝 Publications 
+   [A noise-robust and generalizable framework for facial expression recognition](https://www.sciencedirect.com/science/article/abs/pii/S0020025525005894), Information Sciences 2025, (CCF B, SCI中科院2区)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+-  **Jinglin Zhang**, Qiangchang Wang, Xinxin Zhang and Yilong Yin
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+   [LOFI: Harnessing Attention Dynamics for Facial Expression Recognition with Noisy Labels](https://ieeexplore.ieee.org/abstract/document/10888641), ICASSP 2025, (CCF B)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+-  Yingtao zhu*, Long Zhang, Lijian Li, Chen Zhao, Jiayin Li, **Jinglin Zhang***
+   
+   [Explaining improved photocatalytic activity of Double-walled TiO2 Nanotube: A hybrid density functional calculation](https://www.sciencedirect.com/science/article/abs/pii/S016943322102078X), Appl. Surf. Sci., 570 (2021) 151021, (SCI中科院2区)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+-  **张静林**, 李家印, 张龙, 杨莲红, 朱应涛*
+  
+  [本征缺陷对β-Ga2O3光催化性质影响的第一性原理研究](https://www.cnki.com.cn/Article/CJFDTotal-YZYF202203004.htm)，原子与分子物理学报，39 (2022) 28-3 (北核)
+  
+-  **张静林**, 高红, 马宝英
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+   [一种改进的梯度矢量流Snake侧脑室分割算法](https://www.cnki.com.cn/Article/CJFDTOTAL-YXWZ201505022.htm), 中国医学物理学杂志, 32 (2015) 711-716. (科技核心)
 
-# 🎖 Honors and Awards
+-  **张静林**, 高琳
+
+   [以应用型人才为导向的民族地区高校计算机实践教学改革探究——以《基于.net的Web程序设计》课程为例](https://www.cnki.com.cn/Article/CJFDTotal-CJXY201406013.htm), 昌吉学院学报, (2014) 61-64.
+
+#  课题项目
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+#  课程建设
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
-# 💬 Invited Talks
+#  获奖情况
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+  
+#  工作经历
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+#  教育经历
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
