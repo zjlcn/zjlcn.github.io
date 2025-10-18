@@ -50,22 +50,32 @@ recognition]([[https://github.com](https://link.springer.com/article/10.1007/s13
 
    [以应用型人才为导向的民族地区高校计算机实践教学改革探究——以《基于.net的Web程序设计》课程为例](https://www.cnki.com.cn/Article/CJFDTotal-CJXY201406013.htm), 昌吉学院学报, (2014) 61-64.
 
-#  课题项目
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+#  主持项目
+- 基于融合理念的“互联网+”混合教学模式研究（新教涵[2019]762号），2019自治区教改项目，主持
+- 粒子群算法在MR脑影像处理中的应用研究（2014SSQD001），昌吉学院硕士启动基金，主持 
 
 #  课程建设
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 《JAVA程序设计》，2021年度自治区线上线下一流本科课程，主持
+- 《JAVA程序设计》，2021年度昌吉学院一流本科课程，主持
+- 《WEB程序设计》，2018年度昌吉学院混合式教学示范课，主持
 
 #  获奖情况
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- 2024.03 自治区第八届教学能手
+- 2020.10 自治区高校青年教师教学竞赛，三等奖
+- 2020.09 昌吉学院第六届教学能手
+- 2020.07 昌吉学院第十二届青年教师教学竞赛，一等奖
+- 2021.06 首届全国高校教师教学创新大赛校赛，讲师及以下组，二等奖
+- 2016.01 昌吉学院“先进工作者”
+- 2014.12 昌吉学院第十届教师教学竞赛，三等奖
   
 #  工作经历
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.01 - 至今*, 昌吉学院，副教授
+- *2016.01 - 2021.12*, 昌吉学院，讲师
+- *2013.08 - 2015.12*, 昌吉学院，助教
+- *2010.08 - 2013.07*, 山东淄博第四中学，信息技术教师
 
-#  教育经历
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+#  教育经历 
+- *2022.09 - 至今*, 山东大学，人工智能专业，博士在读
+- *2008.09 - 2010.07*，东北大学，计算机应用技术专业，硕士
+- *2004.09 - 2008.07*，鲁东大学，计算机科学与技术，本科
 
