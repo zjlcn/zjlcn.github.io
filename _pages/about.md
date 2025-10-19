@@ -32,7 +32,7 @@ redirect_from:
 -  **Jinglin Zhang**, Qiangchang Wang, Jing Li1, Zhaohui Li, Xinxin Zhang, Peng Zhao, Yilong Yin, Huimin Lu
   
    CPL: consistent prompt learning for noisy label facial expression 
-recognition, International Journal of Machine Learning and Cybernetics 2025, (SCI中科院4区), [Paper]([[https://github.com](https://link.springer.com/article/10.1007/s13042-025-02802-x)])
+recognition, International Journal of Machine Learning and Cybernetics 2025, (SCI中科院4区), [Paper](https://github.com](https://link.springer.com/article/10.1007/s13042-025-02802-x))
 
 -  Yingtao zhu*, Long Zhang, Lijian Li, Chen Zhao, Jiayin Li, **Jinglin Zhang**
    
