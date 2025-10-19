@@ -29,7 +29,7 @@ redirect_from:
 
    LOFI: Harnessing Attention Dynamics for Facial Expression Recognition with Noisy Labels ICASSP 2025, (CCF B, 会议), *[paper](https://ieeexplore.ieee.org/abstract/document/10888641)*
    
--  **Jinglin Zhang**, Qiangchang Wang, Jing Li1, Zhaohui Li, Xinxin Zhang, Peng Zhao, Yilong Yin, Huimin Lu
+-  **Jinglin Zhang**, Qiangchang Wang, Jing Li, Zhaohui Li, Xinxin Zhang, Peng Zhao, Yilong Yin, Huimin Lu
   
    CPL: consistent prompt learning for noisy label facial expression 
 recognition, International Journal of Machine Learning and Cybernetics 2025, (SCI中科院4区), *[paper](https://github.com](https://link.springer.com/article/10.1007/s13042-025-02802-x))*
