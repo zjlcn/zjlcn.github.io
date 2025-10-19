@@ -99,7 +99,7 @@ recognition, International Journal of Machine Learning and Cybernetics 2025, (SC
 - *2010.08 - 2013.07*, 山东淄博第四中学，信息技术教师
 
 #  教育经历 
-- *2022.09 - 至今*,    山东大学，人工智能，博士在读, 导师: [尹义龙](https://faculty.sdu.edu.cn/ylyin/zh_CN/index.htm)教授, 合作导师: [王强昌](https://faculty.sdu.edu.cn/wangqiangchang/zh_CN/index/1520846/list/index.htm)副研究员
-- *2008.09 - 2010.07*，东北大学，计算机应用技术，硕士, 导师: [赵大哲](http://www.cse.neu.edu.cn/2019/0312/c6665a159492/page.htm)教授, 合作导师: [杨金柱](http://www.cse.neu.edu.cn/2019/0303/c6664a159432/page.htm)教授, 耿欢博士
-- *2004.09 - 2008.07*，鲁东大学，计算机科学与技术，本科
+- *2022.09 - 至今*,    山东大学, 人工智能, 博士在读, 导师: [尹义龙](https://faculty.sdu.edu.cn/ylyin/zh_CN/index.htm)教授, 合作导师: [王强昌](https://faculty.sdu.edu.cn/wangqiangchang/zh_CN/index/1520846/list/index.htm)副研究员
+- *2008.09 - 2010.07*，东北大学, 计算机应用技术, 硕士, 导师: [赵大哲](http://www.cse.neu.edu.cn/2019/0312/c6665a159492/page.htm)教授, 合作导师: [杨金柱](http://www.cse.neu.edu.cn/2019/0303/c6664a159432/page.htm)教授, 耿欢博士
+- *2004.09 - 2008.07*，鲁东大学, 计算机科学与技术, 本科
 
