@@ -21,18 +21,18 @@ redirect_from:
 
 #  代表作 
 
--  **Jinglin Zhang**, Qiangchang Wang, Jing Li1, Zhaohui Li, Xinxin Zhang, Peng Zhao, Yilong Yin, Huimin Lu
-  
-   [CPL: consistent prompt learning for noisy label facial expression 
-recognition]([[https://github.com](https://link.springer.com/article/10.1007/s13042-025-02802-x)]), International Journal of Machine Learning and Cybernetics 2025, (SCI)
-
 -  **Jinglin Zhang**, Qiangchang Wang, Jing Li, Yilong Yin
 
    [A noise-robust and generalizable framework for facial expression recognition](https://www.sciencedirect.com/science/article/abs/pii/S0020025525005894), Information Sciences 2025, (CCF B, SCI中科院2区)
 
 -  **Jinglin Zhang**, Qiangchang Wang, Xinxin Zhang and Yilong Yin
 
-   [LOFI: Harnessing Attention Dynamics for Facial Expression Recognition with Noisy Labels](https://ieeexplore.ieee.org/abstract/document/10888641), ICASSP 2025, (CCF B)
+   [LOFI: Harnessing Attention Dynamics for Facial Expression Recognition with Noisy Labels](https://ieeexplore.ieee.org/abstract/document/10888641), ICASSP 2025, (CCF B, 会议)
+   
+-  **Jinglin Zhang**, Qiangchang Wang, Jing Li1, Zhaohui Li, Xinxin Zhang, Peng Zhao, Yilong Yin, Huimin Lu
+  
+   [CPL: consistent prompt learning for noisy label facial expression 
+recognition]([[https://github.com](https://link.springer.com/article/10.1007/s13042-025-02802-x)]), International Journal of Machine Learning and Cybernetics 2025, (SCI中科院4区)
 
 -  Yingtao zhu*, Long Zhang, Lijian Li, Chen Zhao, Jiayin Li, **Jinglin Zhang***
    
@@ -60,20 +60,20 @@ recognition]([[https://github.com](https://link.springer.com/article/10.1007/s13
 - 《WEB程序设计》，2018年度昌吉学院混合式教学示范课，主持
 
 #  获奖情况
-- *2024.03* 自治区第八届教学能手
-- *2020.10* 自治区高校青年教师教学竞赛，三等奖
-- *2020.09* 昌吉学院第六届教学能手
-- *2020.07* 昌吉学院第十二届青年教师教学竞赛，一等奖
-- *2021.06* 首届全国高校教师教学创新大赛校赛，讲师及以下组，二等奖
-- *2016.01* 昌吉学院先进工作者
-- *2014.12* 昌吉学院第十届教师教学竞赛，三等奖
-- *2013.02* 执教淄博市级公开课一节
-- *2012.05* 山东省淄博第四中学第七届课堂教学新秀
-- *2011.12* 山东省高中教师新课程远程研修，优秀学员
-- *2011.06* 淄川区中学信息技术教师教学业务技术大赛，二等奖
+- *2024.03*, 自治区第八届教学能手
+- *2020.10*, 自治区高校青年教师教学竞赛，三等奖
+- *2020.09*, 昌吉学院第六届教学能手
+- *2020.07*, 昌吉学院第十二届青年教师教学竞赛，一等奖
+- *2021.06*, 首届全国高校教师教学创新大赛校赛，讲师及以下组，二等奖
+- *2016.01*, 昌吉学院先进工作者
+- *2014.12*, 昌吉学院第十届教师教学竞赛，三等奖
+- *2013.02*, 执教淄博市级公开课一节
+- *2012.05*, 山东省淄博第四中学第七届课堂教学新秀
+- *2011.12*, 山东省高中教师新课程远程研修，优秀学员
+- *2011.06*, 淄川区中学信息技术教师教学业务技术大赛，二等奖
   
 #  社会服务
-- *2023.09* 自治区首届基础教育教学指导专业委员会委员
+- *2023.09*, 自治区首届基础教育教学指导专业委员会委员
 
 #  工作经历
 - *2022.01 - 至今*, 昌吉学院，副教授
