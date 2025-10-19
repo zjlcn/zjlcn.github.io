@@ -25,7 +25,7 @@ redirect_from:
 
    A noise-robust and generalizable framework for facial expression recognition, Information Sciences 2025, (CCF B, SCI中科院2区), *[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025525005894)*
 
--  **Jinglin Zhang**, Qiangchang Wang, Xinxin Zhang and Yilong Yin
+-  **Jinglin Zhang**, Qiangchang Wang, Xinxin Zhang, Yilong Yin
 
    LOFI: Harnessing Attention Dynamics for Facial Expression Recognition with Noisy Labels ICASSP 2025, (CCF B, 会议), *[paper](https://ieeexplore.ieee.org/abstract/document/10888641)*
    
