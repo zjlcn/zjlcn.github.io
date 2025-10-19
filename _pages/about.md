@@ -23,32 +23,32 @@ redirect_from:
 
 -  **Jinglin Zhang**, Qiangchang Wang, Jing Li, Yilong Yin
 
-   [A noise-robust and generalizable framework for facial expression recognition](https://www.sciencedirect.com/science/article/abs/pii/S0020025525005894), Information Sciences 2025, (CCF B, SCI中科院2区)
+   A noise-robust and generalizable framework for facial expression recognition, Information Sciences 2025, (CCF B, SCI中科院2区), [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025525005894)
 
 -  **Jinglin Zhang**, Qiangchang Wang, Xinxin Zhang and Yilong Yin
 
-   [LOFI: Harnessing Attention Dynamics for Facial Expression Recognition with Noisy Labels](https://ieeexplore.ieee.org/abstract/document/10888641), ICASSP 2025, (CCF B, 会议)
+   LOFI: Harnessing Attention Dynamics for Facial Expression Recognition with Noisy Labels ICASSP 2025, (CCF B, 会议), [Paper](https://ieeexplore.ieee.org/abstract/document/10888641)
    
 -  **Jinglin Zhang**, Qiangchang Wang, Jing Li1, Zhaohui Li, Xinxin Zhang, Peng Zhao, Yilong Yin, Huimin Lu
   
-   [CPL: consistent prompt learning for noisy label facial expression 
-recognition]([[https://github.com](https://link.springer.com/article/10.1007/s13042-025-02802-x)]), International Journal of Machine Learning and Cybernetics 2025, (SCI中科院4区)
+   CPL: consistent prompt learning for noisy label facial expression 
+recognition, International Journal of Machine Learning and Cybernetics 2025, (SCI中科院4区), [Paper]([[https://github.com](https://link.springer.com/article/10.1007/s13042-025-02802-x)])
 
 -  Yingtao zhu*, Long Zhang, Lijian Li, Chen Zhao, Jiayin Li, **Jinglin Zhang**
    
-   [Explaining improved photocatalytic activity of Double-walled TiO2 Nanotube: A hybrid density functional calculation](https://www.sciencedirect.com/science/article/abs/pii/S016943322102078X), Appl. Surf. Sci., 570 (2021) 151021, (SCI中科院2区)
+   Explaining improved photocatalytic activity of Double-walled TiO2 Nanotube: A hybrid density functional calculation, Appl. Surf. Sci., 570 (2021) 151021, (SCI中科院2区), [Paper](https://www.sciencedirect.com/science/article/abs/pii/S016943322102078X)
 
 -  **张静林**, 李家印, 张龙, 杨莲红, 朱应涛*
   
-   [本征缺陷对β-Ga2O3光催化性质影响的第一性原理研究](https://www.cnki.com.cn/Article/CJFDTotal-YZYF202203004.htm)，原子与分子物理学报，39 (2022) 28-3 (北核)
+   本征缺陷对β-Ga2O3光催化性质影响的第一性原理研究，原子与分子物理学报，39 (2022) 28-3 (北核), [Paper](https://www.cnki.com.cn/Article/CJFDTotal-YZYF202203004.htm)
   
 -  **张静林**, 高红, 马宝英
 
-   [一种改进的梯度矢量流Snake侧脑室分割算法](https://www.cnki.com.cn/Article/CJFDTOTAL-YXWZ201505022.htm), 中国医学物理学杂志, 32 (2015) 711-716. (科技核心)
+   一种改进的梯度矢量流Snake侧脑室分割算法, 中国医学物理学杂志, 32 (2015) 711-716. (科技核心), [Paper](https://www.cnki.com.cn/Article/CJFDTOTAL-YXWZ201505022.htm)
 
 -  **张静林**, 高琳
 
-   [以应用型人才为导向的民族地区高校计算机实践教学改革探究——以《基于.net的Web程序设计》课程为例](https://www.cnki.com.cn/Article/CJFDTotal-CJXY201406013.htm), 昌吉学院学报, (2014) 61-64.
+   以应用型人才为导向的民族地区高校计算机实践教学改革探究——以《基于.net的Web程序设计》课程为例, 昌吉学院学报, (2014) 61-64, [Paper](https://www.cnki.com.cn/Article/CJFDTotal-CJXY201406013.htm)
 
 #  主持项目
 - 基于融合理念的“互联网+”混合教学模式研究（新教涵[2019]762号），2019年度自治区高校本科教育教学研究与改革项目，主持
