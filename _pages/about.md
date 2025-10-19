@@ -34,7 +34,7 @@ redirect_from:
    [CPL: consistent prompt learning for noisy label facial expression 
 recognition]([[https://github.com](https://link.springer.com/article/10.1007/s13042-025-02802-x)]), International Journal of Machine Learning and Cybernetics 2025, (SCI中科院4区)
 
--  Yingtao zhu*, Long Zhang, Lijian Li, Chen Zhao, Jiayin Li, **Jinglin Zhang***
+-  Yingtao zhu*, Long Zhang, Lijian Li, Chen Zhao, Jiayin Li, **Jinglin Zhang**
    
    [Explaining improved photocatalytic activity of Double-walled TiO2 Nanotube: A hybrid density functional calculation](https://www.sciencedirect.com/science/article/abs/pii/S016943322102078X), Appl. Surf. Sci., 570 (2021) 151021, (SCI中科院2区)
 
