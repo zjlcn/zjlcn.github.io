@@ -29,7 +29,7 @@ redirect_from:
 -  **Jinglin Zhang**, Qiangchang Wang, Xinxin Zhang, Yilong Yin
 
    LOFI: Harnessing Attention Dynamics for Facial Expression Recognition with Noisy Labels. In Proceedings of the IEEE International Conference on Acoustics, Speech
-and Signal Processing, 2025:1-5. DOI：10.1109/ICASSP49660.2025.10888641. (CCF B, 会议). *[paper](https://ieeexplore.ieee.org/abstract/document/10888641)*
+and Signal Processing, 2025:1-5. DOI:10.1109/ICASSP49660.2025.10888641. (CCF B, 会议). *[paper](https://ieeexplore.ieee.org/abstract/document/10888641)*
    
 -  **Jinglin Zhang**, Qiangchang Wang, Jing Li, Zhaohui Li, Xinxin Zhang, Peng Zhao, Yilong Yin, Huimin Lu
   
