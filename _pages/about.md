@@ -1,3 +1,4 @@
+
 ---
 permalink: /
 title: ""
@@ -46,11 +47,11 @@ DOI:10.1007/s13042-025-02802-x. (SCI中科院4区). *[paper](https://github.com]
    
 -  **张静林**, 李家印, 张龙, 杨莲红, 朱应涛*
   
-   本征缺陷对β-Ga2O3光催化性质影响的第一性原理研究，原子与分子物理学报，39 (2022) 28-3 (北核). *[paper](https://www.cnki.com.cn/Article/CJFDTotal-YZYF202203004.htm)*
+   本征缺陷对β-Ga2O3光催化性质影响的第一性原理研究，原子与分子物理学报，2022,39(03):28-35. DOI:10.19855/j.1000-0364.2022.031004. (北核). *[paper](https://www.cnki.com.cn/Article/CJFDTotal-YZYF202203004.htm)*
   
 -  **张静林**, 高红, 马宝英
 
-   一种改进的梯度矢量流Snake侧脑室分割算法, 中国医学物理学杂志, 32 (2015) 711-716. (科技核心). *[paper](https://www.cnki.com.cn/Article/CJFDTOTAL-YXWZ201505022.htm)*
+   一种改进的梯度矢量流Snake侧脑室分割算法, 中国医学物理学杂志, 2015,32(05):711-716. (科技核心). *[paper](https://www.cnki.com.cn/Article/CJFDTOTAL-YXWZ201505022.htm)*
 
 -  **张静林**
 
@@ -58,7 +59,7 @@ DOI:10.1007/s13042-025-02802-x. (SCI中科院4区). *[paper](https://github.com]
 
 -  **张静林**, 高琳
 
-   以应用型人才为导向的民族地区高校计算机实践教学改革探究——以《基于.net的Web程序设计》课程为例, 昌吉学院学报, (2014) 61-64. *[paper](https://www.cnki.com.cn/Article/CJFDTotal-CJXY201406013.htm)*
+   以应用型人才为导向的民族地区高校计算机实践教学改革探究——以《基于.net的Web程序设计》课程为例, 昌吉学院学报, 2014,(06):61-64. *[paper](https://www.cnki.com.cn/Article/CJFDTotal-CJXY201406013.htm)*
 
 #  主持项目
 - 基于融合理念的“互联网+”混合教学模式研究（新教涵[2019]762号），2019年度自治区高校本科教育教学研究与改革项目，主持
