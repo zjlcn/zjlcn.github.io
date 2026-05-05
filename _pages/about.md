@@ -53,6 +53,10 @@ DOI:10.1007/s13042-025-02802-x. (SCI中科院4区). *[paper](https://github.com]
 
    一种改进的梯度矢量流Snake侧脑室分割算法. 中国医学物理学杂志, 2015,32(05):711-716. (科技核心). *[paper](https://www.cnki.com.cn/Article/CJFDTOTAL-YXWZ201505022.htm)*
 
+-  **张静林**
+
+   第一性原理视角下智慧课程建设的理论逻辑与实践范式. 现代职业教育, 2026,(12):129-132. *[paper](https://kns.cnki.net/kcms2/article/abstract?v=CIt6vfrkg6D4X4nJbEB9wbupy6JzhXIA_KPY2DboMMutFVSz9IDYHB-i4u-oqScyjqGE8P3c6-01VTmF2yFna_8bio6BnzzOspAZNW_QXeDoiDJ0Uvu4Bs5NFvP8WkjmvW22LOLFjZSq312j2fGiyUF2STBck9iaJIxl4iXSH_4h6mf1l3TotA==&uniplatform=NZKPT&language=CHS)*
+
 -  **张静林**, 高琳
 
    以应用型人才为导向的民族地区高校计算机实践教学改革探究——以《基于.net的Web程序设计》课程为例. 昌吉学院学报, 2014,(06):61-64. *[paper](https://www.cnki.com.cn/Article/CJFDTotal-CJXY201406013.htm)*
