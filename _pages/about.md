@@ -22,44 +22,7 @@ redirect_from:
 
 #  代表作 
 
--  **Jinglin Zhang**, Qiangchang Wang, Jing Li, Yilong Yin
 
-   A noise-robust and generalizable framework for facial expression recognition. Information Sciences, 2025, 719:122457. DOI:10.1016/j.ins.2025.122457. (CCF B, SCI中科院2区). *[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025525005894)*
-
--  **Jinglin Zhang**, Qiangchang Wang, Xinxin Zhang, Yilong Yin
-
-   LOFI: Harnessing Attention Dynamics for Facial Expression Recognition with Noisy Labels. In Proceedings of the IEEE International Conference on Acoustics, Speech
-and Signal Processing, 2025:1-5. DOI:10.1109/ICASSP49660.2025.10888641. (CCF B, 会议). *[paper](https://ieeexplore.ieee.org/abstract/document/10888641)*
-   
--  **Jinglin Zhang**, Qiangchang Wang, Jing Li, Zhaohui Li, Xinxin Zhang, Peng Zhao, Yilong Yin, Huimin Lu
-  
-   CPL: consistent prompt learning for noisy label facial expression 
-recognition. International Journal of Machine Learning and Cybernetics, 2025, 16(12):10835–10850.
-DOI:10.1007/s13042-025-02802-x. (SCI中科院4区). *[paper](https://github.com](https://link.springer.com/article/10.1007/s13042-025-02802-x))*
-
--  Yingtao zhu*, Long Zhang, Lijian Li, Chen Zhao, Jiayin Li, **Jinglin Zhang**
-   
-   Explaining improved photocatalytic activity of Double-walled TiO2 Nanotube: A hybrid density functional calculation. Applied Surface Science, 2021, 570: 151021. DOI:10.1016/j.apsusc.2021.151021. (SCI中科院2区). *[paper](https://www.sciencedirect.com/science/article/abs/pii/S016943322102078X)*
-
--  Qiangchang Wang*, Wenhao Li, **Jinglin Zhang**, Chen Zhao, Zheyun Qin, Linhao Li
-   
-   Fine-Grained Features in Any-Shot Learning: A Survey. IEEE Transactions on Artificial Intelligence, 2026:1-17. DOI: 10.1109/TAI.2026.3678885. *[paper](https://ieeexplore.ieee.org/document/11458044)*
-   
--  **张静林**, 李家印, 张龙, 杨莲红, 朱应涛*
-  
-   本征缺陷对β-Ga2O3光催化性质影响的第一性原理研究. 原子与分子物理学报, 2022,39(03):28-35. DOI:10.19855/j.1000-0364.2022.031004. (北核). *[paper](https://www.cnki.com.cn/Article/CJFDTotal-YZYF202203004.htm)*
-  
--  **张静林**, 高红, 马宝英
-
-   一种改进的梯度矢量流Snake侧脑室分割算法. 中国医学物理学杂志, 2015,32(05):711-716. (科技核心). *[paper](https://www.cnki.com.cn/Article/CJFDTOTAL-YXWZ201505022.htm)*
-
--  **张静林**
-
-   第一性原理视角下智慧课程建设的理论逻辑与实践范式. 现代职业教育, 2026,(12):129-132. *[paper](https://kns.cnki.net/kcms2/article/abstract?v=CIt6vfrkg6D4X4nJbEB9wbupy6JzhXIA_KPY2DboMMutFVSz9IDYHB-i4u-oqScyjqGE8P3c6-01VTmF2yFna_8bio6BnzzOspAZNW_QXeDoiDJ0Uvu4Bs5NFvP8WkjmvW22LOLFjZSq312j2fGiyUF2STBck9iaJIxl4iXSH_4h6mf1l3TotA==&uniplatform=NZKPT&language=CHS)*
-
--  **张静林**, 高琳
-
-   以应用型人才为导向的民族地区高校计算机实践教学改革探究——以《基于.net的Web程序设计》课程为例. 昌吉学院学报, 2014,(06):61-64. *[paper](https://www.cnki.com.cn/Article/CJFDTotal-CJXY201406013.htm)*
 
 #  主持项目
 - 基于融合理念的“互联网+”混合教学模式研究（新教涵[2019]762号），2019年度自治区高校本科教育教学研究与改革项目，主持
